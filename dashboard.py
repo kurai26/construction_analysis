@@ -50,7 +50,7 @@ with tabs[0]:
     st.header("Data Section")
 
     # File path and sheet name
-    file_path = "C:/Users/danin/OneDrive/2024_2025/3. Projects/cost_breakdown_analysis/Dummy_Database.xlsx"  # Replace with your Excel file path
+    file_path = "C:/Users/danin/OneDrive/2024_2025/3. Projects/cost_breakdown_analysis/construction_analysis/Dummy_Database.xlsx"  # Replace with your Excel file path
     sheet_name = "Data"  # Specify the sheet name
 
     try:
